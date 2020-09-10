@@ -15,17 +15,17 @@
 <p>Components</p>
 <ul>
   <li>Table of history failures</li>
-  <li>Achievement Wall: The wall of shame.</li>
-  <li>Faulure themed quotes</li>
   <li>Timeline: see your failures in sequence</li>
-  <li>Famous Failures: The true legends</li>
 </ul>
 
 [potential future enhancements]
 <p>Components</p>
 <ul>
   <li>Table of history failures</li>
+  <li>Achievement Wall: The wall of shame.</li>
+  <li>Faulure themed quotes</li>
   <li>Timeline: see your failures in sequence</li>
+  <li>Famous Failures: The true legends</li>
 </ul>
 
 <p>Achievements</p>
