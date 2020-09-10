@@ -21,6 +21,12 @@
   <li>Famous Failures: The true legends</li>
 </ul>
 
+[potential future enhancements]
+<p>Components</p>
+<ul>
+  <li>Table of history failures</li>
+  <li>Timeline: see your failures in sequence</li>
+</ul>
 
 <p>Achievements</p>
 <ul>
