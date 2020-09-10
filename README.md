@@ -7,9 +7,9 @@
 <p>Users can:</p>
 <ul>
   <li>Chart new failures</li>
-  <li>Delete failures (A modal appears, "Are you really ashamed of this one? Bury that sucker and hope nobody sees it." [Bury] [Keep]</li>
-  <li>View history. Your thrown of shame awaits, my leige.</li>
-  <li>View achievements</li>
+  <li>Delete failures</li>
+  <li>View history</li>
+  <li>View timeline</li>
 </ul>
 
 <p>Components</p>
