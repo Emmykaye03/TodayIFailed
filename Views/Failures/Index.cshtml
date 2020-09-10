@@ -3,7 +3,7 @@
 @{
     ViewBag.Title = "Index";
 }
-    <section class="contrainer" style="        background-color: #2A1B3D;
+    <section style="        background-color: #2A1B3D;
         padding-bottom: 50px;
         height: 100%;
         padding-top: 150px;
@@ -11,7 +11,10 @@
     ">
         <div class="container">
           
-                <a href='@Url.Action("Create", "Failures")' class="btn btn-primary" style="margin-top: 100px; margin-bottom: 15px;">Add New Failure</a>
+                <a href='@Url.Action("Create", "Failures")' class="btn btn-primary" style="        margin-top: 100px;
+        margin-bottom: 15px;
+        float: left;
+">Add New Failure</a>
             
             <table class="table table-condensed table-dark" style="width: 1000px;">
                 <tr>

@@ -35,6 +35,10 @@ namespace TIF.Controllers
             return View(failure);
         }
 
+        public ActionResult Timeline()
+        {
+            return View(db.Failures.ToList());
+        }
         // GET: Failures/Create
         public ActionResult Create()
         {

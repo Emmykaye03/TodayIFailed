@@ -220,6 +220,7 @@
     <Content Include="Views\Failures\Details.cshtml" />
     <Content Include="Views\Failures\Edit.cshtml" />
     <Content Include="Views\Failures\Index.cshtml" />
+    <Content Include="Views\Failures\Timeline.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

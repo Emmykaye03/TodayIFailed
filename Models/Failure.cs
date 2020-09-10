@@ -14,6 +14,14 @@ namespace TIF.Models
     
     public partial class Failure
     {
+        public static void Main()
+        {
+            DateTime date1 = new DateTime(2008, 6, 1, 7, 47, 0);
+            Console.WriteLine(date1.ToString());
+
+            // Get date-only portion of date, without its time.
+            DateTime dateOnly = date1.Date;
+        }
         public int FailID { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
